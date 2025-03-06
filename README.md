@@ -43,7 +43,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - React Context API
 - Styled Components  
 
-Goals For 2025 🥅
+## Goals For 2025 🥅
 
 - Goal For 2025 : Want to be among the top contributors 
 - Contribute or Start a Project to help mitigate Climate change
