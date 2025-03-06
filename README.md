@@ -43,7 +43,17 @@ I love the entire process of developing creative websites. I love the challenge 
 - React Context API
 - Styled Components  
 
+Goals For 2025 🥅
 
+- Goal For 2025 : Want to be among the top contributors 
+- Contribute or Start a Project to help mitigate Climate change
+- Earn 💵🤑
+- Built Open Source Community For my college 
+- Contribute so Dr.c.v.Raman Developer community on GitHub Grow
+- atleast 10 Seminors and Workshops for students
+- I want to part of many developers community's
+- Built a product
+- Start a Buisness
 
 </br>
 
