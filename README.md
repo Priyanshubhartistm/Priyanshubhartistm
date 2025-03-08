@@ -58,7 +58,9 @@ I love the entire process of developing creative websites. I love the challenge 
 ## Build a community for women in tech
 
 - we are not alone,we are many (girls)
-- learn, grow, shine and network
+- learn, grow, shine and network 
+- This year "Empower every women: equality, progress , inclusion.
+- so, let's come together,hold and to support each other to do better because when a woman is empowered she not only empowers families but also communities and economies as well.🤗♀️🙌
   
 
 
