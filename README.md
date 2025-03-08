@@ -55,6 +55,14 @@ I love the entire process of developing creative websites. I love the challenge 
 - Built a product
 - Start a Buisness
 
+## Build a community for women in tech
+
+- we are not alone,we are many (girls)
+- learn, grow, shine and network
+  
+
+
+
 </br>
 
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
