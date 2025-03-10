@@ -63,7 +63,7 @@ I love the entire process of developing creative websites. I love the challenge 
 - so, let's come together,hold and to support each other to do better because when a woman is empowered she not only empowers families but also communities and economies as well.🤗♀️🙌
   
 
-
+If you're having any doubt you can contact me through LinkedIn 
 
 </br>
 
