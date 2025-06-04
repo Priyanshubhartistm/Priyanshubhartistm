@@ -2,16 +2,10 @@
 
 ✉️ Linkedin: https://www.linkedin.com/in/priyanshu-bharti-441823229/
 
-✉️ Email: bhartipriyanshustm @gmail.com
+✉️ Email: bhartipriyanshustm@gmail.com
 
 💻 Core Skills: Blockchain, Full-stack Development Web Development (HTML, CSS, JavaScript) Back-end Development (Node.js) Front-end Frameworks (React) Database Management (MongoDB) Version Control (Git, GitHub)
 
-
-
-About myself
-
-Hi There! 
-I’m Priyanshu Bharti 👋, a second year student currently pursuing my bachelors degree in computer science. 
 [![An image of @bhartipriyanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhartipriyanshu)](https://holopin.io/@bhartipriyanshu)
 # github state
 ![Priyanshubhartistm's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priyanshubhartistm&show_icons=true&theme=radical)
