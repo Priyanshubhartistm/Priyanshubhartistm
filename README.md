@@ -1,3 +1,13 @@
+👋 3rd Year Enginnering Student at Dr. C.V. Raman University, A passionate and dedicated developer with a strong focus on creating robust and innovative software solutions. With a deep love for coding and problem-solving, I'm always seeking new challenges and opportunities to expand my skills.
+
+✉️ Linkedin: https://www.linkedin.com/in/priyanshu-bharti-441823229/
+
+✉️ Email: bhartipriyanshustm @gmail.com
+
+💻 Core Skills: Blockchain, Full-stack Development Web Development (HTML, CSS, JavaScript) Back-end Development (Node.js) Front-end Frameworks (React) Database Management (MongoDB) Version Control (Git, GitHub)
+
+
+
 About myself
 
 Hi There! 
