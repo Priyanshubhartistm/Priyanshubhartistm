@@ -4,6 +4,9 @@
 
 ✉️ Email: bhartipriyanshustm@gmail.com
 
+✉️ Medium: https://medium.com/@bhartipriyanshustm
+
+
 💻 Core Skills: Blockchain, Full-stack Development Web Development (HTML, CSS, JavaScript) Back-end Development (Node.js) Front-end Frameworks (React) Database Management (MongoDB) Version Control (Git, GitHub)
 
 [![An image of @bhartipriyanshu's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhartipriyanshu)](https://holopin.io/@bhartipriyanshu)
