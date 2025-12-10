@@ -40,18 +40,6 @@ I love the entire process of developing creative websites. I love the challenge 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me! 
 
-## 🥅 Goals For 2025 
-
-- Goal For 2025 : Want to be among the top contributors 
-- Contribute or Start a Project to help mitigate Climate change
-- Earn 💵🤑
-- Built Open Source Community For my college 
-- Contribute so Dr.c.v.Raman Developer community on GitHub Grow
-- atleast 10 Seminors and Workshops for students
-- I want to part of many developers community's
-- Built a product
-- Start a Buisness
-
 ## Build a community for women in tech
 
 - we are not alone,we are many (girls)
