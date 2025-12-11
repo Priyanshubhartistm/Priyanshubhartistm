@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Priyanshubhartistm&theme=ambient_gradient&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Priyanshubhartistm&theme=rose&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
@@ -22,6 +22,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanshubhartistm&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Priyanshubhartistm&icon=10&color=12)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Priyanshubhartistm&icon=3&color=3)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
