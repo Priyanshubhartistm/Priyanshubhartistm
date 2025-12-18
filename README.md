@@ -3,7 +3,6 @@
 </div>
 
 ###
-
 <div align="center">
   
   <a href="https://www.linkedin.com/in/priyanshu-bharti-441823229/" target="_blank">
