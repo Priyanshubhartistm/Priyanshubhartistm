@@ -12,7 +12,7 @@
    <a href="https://x.com/PriyanshuB74940" target="_blank">
    <img src="https://img.shields.io/badge/x-0077B5?logo=x&logoColor=white&style=for-the-badge" />
   </a>
-   
+  
   </a>
 </div>
 
