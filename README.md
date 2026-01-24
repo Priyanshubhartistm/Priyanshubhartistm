@@ -36,10 +36,6 @@
 
 <p align="left">I'm ... from India.<br><br>- 🔭 I’m working as Fullstack Developer<br>- 📚 I'm currently learning Web3<br>- ⚡ In my free time I Contribute in open source</p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Priyanshubhartistm&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Priyanshubhartistm&theme=calm_pink&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ###
 
 <h3 align="left">🛠 Language and tools</h3>
