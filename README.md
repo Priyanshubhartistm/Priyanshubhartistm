@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Priyanshu Bharti  
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshubhartistm&theme=github_dark)
 
