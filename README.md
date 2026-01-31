@@ -1,3 +1,6 @@
+
+## 👋 Hi, I'm Priyanshu Bharti  
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -17,7 +20,7 @@
   </a>
 </div>
 
-## 👋 Hi, I'm Priyanshu Bharti  
+
 
 ## 📊 GitHub Stats
 
@@ -28,9 +31,6 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshubhartistm&theme=dark)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&show_icons=true&locale=en&layout=compact&theme=dark)
-
-
-
 
 
 
@@ -103,8 +103,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Priyanshubhartistm&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=Priyanshubhartistm&icon=3&color=0)](https://visitcount.itsvg.in)
+
 
   ## 💰 Buy coffee for me
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/bhartipriyanshustm) 
