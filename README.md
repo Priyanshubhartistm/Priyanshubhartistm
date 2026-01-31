@@ -3,13 +3,15 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=vercel)](https://pb-portfolio-black.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshubharti/)
-
 
 
 ###
 <div align="center">
+
+<a href="https://pb-portfolio-black.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-black?logo=vercel&logoColor=white&style=for-the-badge" />
+  </a>
+  
   <a href="https://www.linkedin.com/in/priyanshu-bharti-441823229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
 
