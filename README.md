@@ -1,14 +1,11 @@
 
 ## 👋 Hi, I'm Priyanshu Bharti  
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-
 ###
 <div align="center">
-  
   <a href="https://www.linkedin.com/in/priyanshu-bharti-441823229/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
@@ -19,9 +16,6 @@
   
   </a>
 </div>
-
-
-
 
 ###
 <div align="center">
@@ -79,9 +73,7 @@
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshubhartistm&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&show_icons=true&locale=en&layout=compact&theme=dark)
 
 # 📊 GitHub Stats:
 
@@ -89,9 +81,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Priyanshubhartistm&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-  
 
 
 ###
