@@ -1,3 +1,19 @@
+## 👋 Hi, I'm Priyanshu Bharti  
+
+### 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshubhartistm&theme=github_dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshubhartistm&theme=github-dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&layout=compact&theme=github_dark)
+
+
+
+
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
