@@ -3,7 +3,9 @@
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
-[![My Portfolio](portfolio.png)](https://pb-portfolio-black.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-black?style=for-the-badge&logo=vercel)](https://pb-portfolio-black.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/priyanshubharti/)
+
 
 
 ###
@@ -13,7 +15,7 @@
 
     
   </a>
-  🌐 **Portfolio:** [https://pb-portfolio-black.vercel.app](https://pb-portfolio-black.vercel.app)
+
 
  
    <a href="https://x.com/PriyanshuB74940" target="_blank">
