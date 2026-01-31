@@ -1,26 +1,9 @@
-## 👋 Hi, I'm Priyanshu Bharti  
-
-## 📊 GitHub Stats
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshubhartistm&theme=github_dark)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyanshubhartistm&theme=github-dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&layout=compact&theme=github_dark)
-
-
-
-
-
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 
 ###
-
 <div align="center">
   
   <a href="https://www.linkedin.com/in/priyanshu-bharti-441823229/" target="_blank">
@@ -34,15 +17,31 @@
   </a>
 </div>
 
+## 👋 Hi, I'm Priyanshu Bharti  
+
+## 📊 GitHub Stats
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshubhartistm&theme=github_dark)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Priyanshubhartistm&theme=dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&show_icons=true&locale=en&layout=compact&theme=dark)
+
+
+
+
+
+
+
+
+
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Priyanshubhartistm.Priyanshubhartistm" />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
 
 ###
 
