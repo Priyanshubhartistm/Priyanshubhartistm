@@ -29,11 +29,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Priyanshubhartistm.Priyanshubhartistm" />
 </div>
 
-###
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-<p align="left">I'm ... from India.<br><br>- 🔭 I’m working as Fullstack Developer<br>- 📚 I'm currently learning Web3<br>- ⚡ In my free time I Contribute in open source</p>
 
 ###
 <h3 align="left">🛠 Language and tools</h3>
