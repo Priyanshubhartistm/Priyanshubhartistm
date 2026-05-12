@@ -76,6 +76,9 @@
 #
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
 
+<img width="385" height="383" alt="image" src="https://github.com/user-attachments/assets/dbc64a48-055e-414e-a2b6-ab22631bda98" />
+
+
 
 
 # 📊 GitHub Stats:
