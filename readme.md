@@ -72,8 +72,8 @@
 ## FULL CONTRIBUTION GRAPH
 
 
-[![VIEW](https://img.shields.io/badge/VIEW-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?page=1&q=is%3Apr+author%3APriyanshubhartistm+is%3Aclosed)
-[![FULL CONTRIBUTION GRAPH](https://img.shields.io/badge/FULL%20CONTRIBUTION%20GRAPH-22c55e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?page=1&q=is%3Apr+author%3APriyanshubhartistm+is%3Aclosed)
+[![TRACK](https://img.shields.io/badge/TRACK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm)
+[![RECENT PULL REQUESTS](https://img.shields.io/badge/RECENT%20PULL%20REQUESTS-8b5cf6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm)
 
 ## 📊 GitHub Stats
 
