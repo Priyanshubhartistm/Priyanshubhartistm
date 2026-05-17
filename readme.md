@@ -73,9 +73,7 @@
 
 
 [![TRACK](https://img.shields.io/badge/TRACK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm)
-[![RECENT PULL REQUESTS](https://img.shields.io/badge/RECENT%20PULL%20REQUESTS-8b5cf6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm)
-
-[![TRACK](https://img.shields.io/badge/TRACK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aissue+author%3APriyanshubhartistm)
+[![RECENT PULL REQUESTS](https://img.shields.io/badge/RECENT%20PULL%20REQUESTS-8b5cf6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm) [![TRACK](https://img.shields.io/badge/TRACK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aissue+author%3APriyanshubhartistm)
 [![RECENT ISSUES](https://img.shields.io/badge/RECENT%20ISSUES-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aissue+author%3APriyanshubhartistm)
 
 ## 📊 GitHub Stats
