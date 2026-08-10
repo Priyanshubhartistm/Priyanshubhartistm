@@ -7,9 +7,23 @@
 ### 👩‍💻 About Me
 
 - 💻 I am a Full-Stack Developer.
-- ⛓️ I'm currently working on Blockchain Development.
-- 🌍 Open-source and Web3 enthusiast.
-- 🌱 I'm currently learning DevOps in depth.
+- 🌱 Interested in Open Source and Cloud Native technologies.
+- 🚀 Currently exploring Kubernetes, DevOps, and Cloud Native development.
+- 🤝 I enjoy contributing to open-source projects and collaborating with developer communities.
+
+### 🌐 Interests
+
+- ☸️ Kubernetes
+- ☁️ Cloud Native Technologies
+- 🔄 CI/CD
+- ⚙️ DevOps
+- 🐳 Docker & Containerization
+- 🛠️ Infrastructure as Code
+- 🔧 Linux & System Administration
+- 🌐 Distributed Systems
+- 🔐 Cloud & Infrastructure
+- 🤝 Open Source Development
+
 
 ###
 <div align="center">
