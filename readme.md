@@ -45,11 +45,10 @@
 [![RECENT PULL REQUESTS](https://img.shields.io/badge/RECENT%20PULL%20REQUESTS-8b5cf6?style=for-the-badge&logo=git&logoColor=white)](https://github.com/pulls?q=is%3Apr+author%3APriyanshubhartistm) [![TRACK](https://img.shields.io/badge/TRACK-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aissue+author%3APriyanshubhartistm)
 [![RECENT ISSUES](https://img.shields.io/badge/RECENT%20ISSUES-ec4899?style=for-the-badge&logo=github&logoColor=white)](https://github.com/issues?q=is%3Aissue+author%3APriyanshubhartistm)
 
+
+
 ## 📊 GitHub Stats
 
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Priyanshubhartistm&theme=github_dark)
-# 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshubhartistm&theme=github_dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyanshubhartistm&show_icons=true&theme=github_dark&include_all_commits=true)
 
-
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshubhartistm&layout=compact&theme=github_dark)
