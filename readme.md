@@ -6,7 +6,6 @@
 </div>
 
 ### 👩‍💻 About Me
-
 - 💻 I am a Full-Stack Developer.
 - 🌱 Interested in Open Source and Cloud Native technologies.
 - 🚀 Currently exploring Kubernetes, DevOps, Linux, and System Administration.
