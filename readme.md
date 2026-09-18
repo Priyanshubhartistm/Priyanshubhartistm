@@ -7,9 +7,9 @@
 
 ### 👩‍💻 About Me
 -  Ask me about Full Stack Development & Web3.
-- 🌱 Interested in Open Source and Cloud Native technologies.
-- 🚀 Currently exploring Kubernetes, DevOps, Linux, and System Administration.
-- 🤝 I enjoy contributing to open-source projects and collaborating with developer communities.
+-  Interested in Open Source and Cloud Native technologies.
+-  Currently exploring Kubernetes, DevOps, Linux, and System Administration.
+-  I enjoy contributing to open-source projects and collaborating with developer communities.
 
 ###
 <div align="center">
